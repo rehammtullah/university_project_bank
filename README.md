@@ -19,7 +19,7 @@ This product will help the users to keep a track of their of all their project d
 1. HTML
 2. CSS
 3. JAVASCRIPT
-4. EXPRESSJS(EJS)
+4. EJS
 5. NodeJS
 6. MySQL
 
